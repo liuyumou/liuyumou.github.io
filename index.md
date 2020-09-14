@@ -8,4 +8,4 @@ E-mail: liuyumou@sjtu.edu.cn
 
 ## Academic Blogs
 ### Data Structure
-[1. Introduction to Data Structure](/data-structure/DataStructure1.md)
+[1. Introduction to Data Structure](https://github.com/liuyumou/liuyumou.github.io.git/data-structure/DataStructure1.md)
