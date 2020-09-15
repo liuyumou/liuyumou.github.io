@@ -7,5 +7,5 @@ Interests: Optimization theroy, Deep learning, Data analysis
 E-mail: liuyumou@sjtu.edu.cn  
 
 ## Academic Blogs
-### Data Structure
-[1. Introduction to Data Structure](https://github.com/liuyumou/liuyumou.github.io.git/../../../../data-structure/data-structure-1.md)
+### Data Structures
+[1. Introduction to Data Structures](https://github.com/liuyumou/liuyumou.github.io.git/../../../../data-structure/data-structure-1.md)
