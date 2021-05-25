@@ -1,7 +1,7 @@
 # Welcome to Liu-Yumou's site
 
 **Liu Yumou**  
-Undergrad tudent from Shanghai Jiaotong University  
+Undergraduate student from Shanghai Jiaotong University  
 Major in EE  
 Interests: Machine Learning, Reinforcement Learning, Federated Learning, IoT, Low-Power Wireless Communication  
 E-mail: liuyumou@sjtu.edu.cn  
