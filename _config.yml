@@ -24,15 +24,15 @@ author:
   avatar           : "profile.png"
   name             : "Yumou Liu"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  bio              : "In coming PhD Student at SCS, SJTU."
+  location         : "Shanghai, China"
   employer         : "The Chinese University of Hong Kong, Shenzhen"
   uri              : # URL
   email            : "yumouliu@cuhk.edu.cn" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  # googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=MjfpOxMAAAAJ&hl=en"
   impactstory      : # URL
   orcid            : "https://orcid.org/0009-0000-0068-8624"
   semantic         : # URL
