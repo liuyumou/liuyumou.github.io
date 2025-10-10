@@ -7,12 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-I'm an incoming PhD student at School of Computer Science, Shanghai Jiao Tong University. Before that, I was a MSc. student at [the School of Data Science](https://sds.cuhk.edu.cn/en), [The Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/en), and got a bachelor degree at Department of Electronic Engineering, Shanghai Jiao Tong University.
+I'm a PhD student at School of Computer Science, Shanghai Jiao Tong University. Before that, I was a MSc. student at [the School of Data Science](https://sds.cuhk.edu.cn/en), [The Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/en), and got a bachelor degree at Department of Electronic Engineering, Shanghai Jiao Tong University.
 
 My research interests include mechanism design, algorithmic game theory and optimization.
 
 ## Publications and Preprints
 
+- Online Contract Design for Creator Economy in the Era of GenAI.\
+  **Yumou Liu**, Zhenzhe Zheng, Fan Wu, Guihai Chen\
+  *MobiHoc*, 2025 
 - Periodical Moving Average Accelerates Gradient Accumulation for Post-Training.\
   **Yumou Liu**, An Li, Chaojie Li, Fei Yu, Benyou Wang\
   *UAI*, 2025, [link](https://openreview.net/forum?id=iAfRDuiTjd&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3Dauai.org%2FUAI%2F2025%2FConference%2FAuthors%23your-submissions)), [code](https://github.com/liuyumou/periodical-moving-average)
