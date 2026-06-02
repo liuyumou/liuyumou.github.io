@@ -7,12 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-I'm a PhD student at School of Computer Science, Shanghai Jiao Tong University. Before that, I was a MSc. student at [the School of Data Science](https://sds.cuhk.edu.cn/en), [The Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/en), and got a bachelor degree at Department of Electronic Engineering, Shanghai Jiao Tong University.
+I'm a first-year PhD student at the School of Computer Science, Shanghai Jiao Tong University. Before that, I was a MSc. student at [the School of Data Science](https://sds.cuhk.edu.cn/en), [The Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/en), and got a bachelor degree at Department of Electronic Engineering, Shanghai Jiao Tong University.
 
 My research interests include mechanism design, algorithmic game theory and optimization.
 
 ## Publications and Preprints
 
+- Guiding the Recommender: Information-Aware Auto-Bidding for Content Promotion.\
+  **Yumou Liu**, Zhenzhe Zheng, Jiang Rong, Yao Hu, Fan Wu, Guihai Chen\
+  *SIGMETRICS*, 2026, [link](https://dl.acm.org/doi/10.1145/3788094), [arXiv](https://arxiv.org/abs/2601.20422)
 - Online Contract Design for Creator Economy in the Era of GenAI.\
   **Yumou Liu**, Zhenzhe Zheng, Fan Wu, Guihai Chen\
   *MobiHoc*, 2025 

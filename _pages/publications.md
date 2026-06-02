@@ -17,6 +17,9 @@ author_profile: true
 
 ## Conference Papers
 
+- Guiding the Recommender: Information-Aware Auto-Bidding for Content Promotion.\
+  **Yumou Liu**, Zhenzhe Zheng, Jiang Rong, Yao Hu, Fan Wu, Guihai Chen\
+  *SIGMETRICS*, 2026, [link](https://dl.acm.org/doi/10.1145/3788094), [arXiv](https://arxiv.org/abs/2601.20422)
 - Periodical Moving Average Accelerates Gradient Accumulation for Post-Training.\
   **Yumou Liu**, An Li, Chaojie Li, Fei Yu, Benyou Wang\
   *UAI*, 2025, [link](https://openreview.net/forum?id=iAfRDuiTjd&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3Dauai.org%2FUAI%2F2025%2FConference%2FAuthors%23your-submissions)) [code](https://github.com/liuyumou/periodical-moving-average)
