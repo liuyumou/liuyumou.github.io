@@ -15,7 +15,7 @@ My research interests include mechanism design, algorithmic game theory and opti
 
 - Guiding the Recommender: Information-Aware Auto-Bidding for Content Promotion.\
   **Yumou Liu**, Zhenzhe Zheng, Jiang Rong, Yao Hu, Fan Wu, Guihai Chen\
-  *SIGMETRICS*, 2026, [link](https://dl.acm.org/doi/10.1145/3788094), [arXiv](https://arxiv.org/abs/2601.20422)
+  *SIGMETRICS*, 2026, [link](https://dl.acm.org/doi/10.1145/3788094), [arXiv](https://arxiv.org/abs/2601.20422), [slides](/files/sigmetrics2026-guiding-recommender-slides.pdf)
 - Online Contract Design for Creator Economy in the Era of GenAI.\
   **Yumou Liu**, Zhenzhe Zheng, Fan Wu, Guihai Chen\
   *MobiHoc*, 2025 
