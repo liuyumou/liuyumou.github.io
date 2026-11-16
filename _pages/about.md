@@ -7,12 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-I'm a first-year PhD student at the School of Computer Science, Shanghai Jiao Tong University. Before that, I was a MSc. student at [the School of Data Science](https://sds.cuhk.edu.cn/en), [The Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/en), and got a bachelor degree at Department of Electronic Engineering, Shanghai Jiao Tong University.
+I'm a second-year PhD candidate at the School of Computer Science, Shanghai Jiao Tong University. Before that, I was a MSc. student at [the School of Data Science](https://sds.cuhk.edu.cn/en), [The Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/en), and got a bachelor degree at Department of Electronic Engineering, Shanghai Jiao Tong University.
 
 My research interests include mechanism design, algorithmic game theory and optimization.
 
 ## Publications and Preprints
 
+- What Drives the Zero-to-One Jump? Diagnosing and Steering Hard-Prompt Learning in RLVR.\
+  Rui Zhu, **Yumou Liu**, Zhenzhe Zheng, Fan Wu\
+  *EMNLP*, 2026, [link](https://aclanthology.org/2026.emnlp-main.1821/), [code](https://github.com/jameszhu-pixel-time/Z2O)
 - Guiding the Recommender: Information-Aware Auto-Bidding for Content Promotion.\
   **Yumou Liu**, Zhenzhe Zheng, Jiang Rong, Yao Hu, Fan Wu, Guihai Chen\
   *SIGMETRICS*, 2026, [link](https://dl.acm.org/doi/10.1145/3788094), [arXiv](https://arxiv.org/abs/2601.20422), [slides](/files/sigmetrics2026-guiding-recommender-slides.pdf)
